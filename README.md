@@ -32,7 +32,7 @@ Welcome to this training repository! This repository covers three key emerging t
 ## 💡 How to Use This Repository  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Uwihanganyeobed/ACEP_Material_Courses.git
 Navigate to the specific module directory.
 Follow the documentation and examples provided.
 Run sample projects and exercises to reinforce your learning.
